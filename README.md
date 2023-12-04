@@ -1,3 +1,6 @@
+Hi! 
+My Discord is ElodieMichel#6538
+
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
